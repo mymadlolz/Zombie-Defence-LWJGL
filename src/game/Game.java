@@ -9,7 +9,7 @@ public class Game {
 	
 	public Game(){
 		JFrame f = new JFrame();
-		f.setTitle("A DarkPixel Game")
+		f.setTitle("A DarkPixel Game");
 	}
 
 }
