@@ -13,6 +13,7 @@ public class Game {
 		f.setTitle("A DarkPixel Game");
 		//f.add(new board());
 		f.setSize(500, 400);
+		f.setLocationRelativeTo(null);
 		f.setVisible(true);
 		f.setResizable(false);
 		f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
