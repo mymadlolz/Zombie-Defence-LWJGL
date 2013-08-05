@@ -1,6 +1,6 @@
 package game;
 
-import javax.swing.JFrame;
+import javax.swing.*;
 
 public class Game {
 	public static void main(String[] args){
@@ -9,7 +9,7 @@ public class Game {
 	
 	public Game(){
 		JFrame f = new JFrame();
-		
+		f.setTitle("A DarkPixel Game")
 	}
 
 }
