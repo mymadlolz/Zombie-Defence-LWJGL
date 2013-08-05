@@ -1,6 +1,13 @@
 package game;
 
 public class Game {
-	public
+	public static void main(String[] args){
+		
+	}
+	
+	public Game(){
+		JFrame f = new JFrame();
+		
+	}
 
 }
